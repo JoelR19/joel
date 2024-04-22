@@ -1,0 +1,1 @@
+estoy probando como editar un archivo desde bash con nano/ aca pruebo con vim
