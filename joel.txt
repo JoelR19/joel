@@ -1,1 +1,7 @@
-estoy probando como editar un archivo desde bash con nano/ aca pruebo con vim
+estoy haciendo una prueba con VIM 
+
+se escribe o edita 
+despues se da ESC
+despues se guarda con :w
+y nos salimos con :q
+

@@ -1,0 +1,5 @@
+estoy editando un texto
+dddd
+aaaaaaaaa
+ escribiendo en vim
+ ccccc

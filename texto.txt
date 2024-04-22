@@ -1,0 +1,9 @@
+escribiendo con el comando nano
+segunda prueba con nano
+dddddd
+sigo probando con nano
+ultima prueba con nano ctrl o, para guardar
+enter
+ctrl x para cerrar
+
+d
